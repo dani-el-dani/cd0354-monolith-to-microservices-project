@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: udagram-frontend
-        image: dani31dani/udagram-frontend:v6
+        image: dani31dani/udagram-frontend:v1
         ports:
         - containerPort: 8100
         resources:
